@@ -1,0 +1,25 @@
+{
+  "name": "third-node-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onticinc/third-node-js-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onticinc/third-node-js-project/issues"
+  },
+  "homepage": "https://github.com/onticinc/third-node-js-project#readme",
+  "dependencies": {
+    "axiom": "^0.1.6",
+    "faker": "^5.5.3"
+  }
+}
